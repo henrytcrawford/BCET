@@ -1,7 +1,7 @@
 # BCET
 BCET for WorldView3 Imagery
 This repository contains the following files:
-1. Most up to date .ipyth BCET code
+1. Most up to date .ipynb BCET code (Python 3.9.6 in jupyter notebook)
 2. WV3 MUL bands .tif (as given, no orthorecitifcation or processing) (1.58 GB)
 3. WV3 SWIR bands .tif (as given, no orthorecitifcation or processing) (170.07 mb)
 4. WV3 PAN band .tif (as given, no orthorecitifcation or processing) (3.16 GB)
