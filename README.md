@@ -1,10 +1,12 @@
 # BCET
 BCET for WorldView3 Imagery
 This repository contains the following files:
-1. Most up to date .ipynb BCET code (Python 3.9.6 in jupyter notebook)
-2. WV3 MUL bands .tif (as given, no orthorecitifcation or processing) (1.58 GB)
-3. WV3 SWIR bands .tif (as given, no orthorecitifcation or processing) (170.07 mb)
-4. WV3 PAN band .tif (as given, no orthorecitifcation or processing) (3.16 GB)
+1. "WV3_BCET.ipynb" - The most up to date .ipynb BCET code (Python 3.9.6 in jupyter notebook)
+
+See Dropbox for the following files:
+3. WV3 MUL bands .tif (as given, no orthorecitifcation or processing) (1.58 GB)
+4. WV3 SWIR bands .tif (as given, no orthorecitifcation or processing) (170.07 mb)
+5. WV3 PAN band .tif (as given, no orthorecitifcation or processing) (3.16 GB)
 
 Notes:
 1. The spatial extent of the WV3 imagery is contained in one scene (tile) and is georeferenced to WGS 1984 UTM Zone 19S. The spectral extent is contained in three images (8 MUL bands, 8 SWIR bands, 1 Panchromatic band). The radiometric resolution of the MUL and Pan bands is 11-bit, and 14-bit for the SWIR bands. They are all stored as 16-bit with unsigned integers. 
