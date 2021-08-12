@@ -3,7 +3,7 @@ BCET for WorldView3 Imagery
 This repository contains the following files:
 1. "WV3_BCET.ipynb" - The most up to date .ipynb BCET code (Python 3.9.6 in jupyter notebook)
 
-See Dropbox link for the following files:
+See Dropbox link for the following files [https://www.dropbox.com/sh/uqd1ozjk3yzycd8/AAASUgCoNplM_Pp9eaLq5WtNa?dl=0]:
 1. "010518244010_01_P001_MUL.TIF" - WV3 multispectral bands (8) as given, no orthorectification or processing. (1.58 GB)
 2. "010518244010_01_P001_SWR.TIF" - WV3 Shortwave infared bands (8) as given, no orthorectification or processing (170.07 mb)
 3. "010518244010_01_P001_PAN.TIF" - WV3 panchromatic band as given, no orthorectification or processing) (3.16 GB)
